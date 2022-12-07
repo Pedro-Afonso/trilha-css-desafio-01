@@ -11,8 +11,25 @@ body {
 
 #banner {
     height: 60.5rem;
+    width: 100%;
 }
 
 #banner .banner-content{
     margin: 5.6rem auto 1.6rem;
+}
+
+#banner h1{
+    font-weight: 900;
+    font-size: 4rem;
+    background: linear-gradient(180deg, #33A8DB, #1472B7);
+    margin-bottom: 1.6rem;
+    text-align: center;
+}
+
+#banner p{
+
+}
+
+#banner button {
+
 }
