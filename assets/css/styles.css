@@ -139,3 +139,22 @@ body {
   line-height: 4.7rem;
   text-shadow: 3px 2px 0px #33a8db;
 }
+
+#professional-challenges h2 {
+  font-weight: 700;
+  font-size: 3.2rem;
+  margin: 7.6rem auto 3.2rem;
+  width: 74.6rem;
+  line-height: 3.8rem;
+  letter-spacing: 0.19em;
+  color: #33a8db;
+}
+
+#professional-challenges p {
+  margin-top: 4rem;
+  width: 79.2rem;
+  margin: 0 auto;
+  font-size: 1.6rem;
+  line-height: 1.9rem;
+  font-weight: 400;
+}
